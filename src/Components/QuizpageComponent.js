@@ -54,8 +54,8 @@ const QuizpageComponent = () => {
             </button>
         ));
         return (
-            <div>
-                <p>{question}</p>
+            <div className="container">
+                <h3>{question}</h3>
                 <div>{buttons}</div>
                 {Points}
             </div>

@@ -4,7 +4,7 @@ import "../Style/homepage.css";
 
 const HomepageComponent = () => {
     const [selectedCategory, setSelectedCategory] = useState(null);
-    const [questionAmount, setQuestionAmount] = useState("10");
+    const [questionAmount, setQuestionAmount] = useState("22");
     const [difficultyLevel, setDifficultyLevel] = useState("easy");
     const navigate = useNavigate();
 
@@ -60,7 +60,7 @@ const HomepageComponent = () => {
                 <h1>Wybierz kategorie aby zaczac quiz</h1>
                 <ul className="category">
                     <li onClick={() => handleCategorySelect("9")}>General Knowledge</li>
-                    <li onClick={() => handleCategorySelect("10")}>Books</li>
+                    <li onClick={() => handleCategorySelect("22")}>Geography</li>
                     <li onClick={() => handleCategorySelect("12")}>Music</li>
                 </ul>
 

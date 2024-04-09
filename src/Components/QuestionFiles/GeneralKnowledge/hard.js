@@ -41,7 +41,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "What was the third country to have a McDonald&#039;s restaurant?",
+			"question": "What was the third country to have a McDonald's restaurant?",
 			"correct_answer": "Costa Rica",
 			"incorrect_answers": [
 				"Japan",
@@ -65,7 +65,7 @@ const hardQuestions = {
 			"type": "boolean",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "&quot;Number 16 Bus Shelter&quot; was a child&#039;s name that was approved by the New Zealand government.",
+			"question": "'Number 16 Bus Shelter' was a child's name that was approved by the New Zealand government.",
 			"correct_answer": "True",
 			"incorrect_answers": [
 				"False"
@@ -111,7 +111,7 @@ const hardQuestions = {
 			"type": "boolean",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "Stagecoach owned &quot;South West Trains&quot; before losing the rights to FirstGroup and MTR in March of 2017.",
+			"question": "Stagecoach owned \"South West Trains\" before losing the rights to FirstGroup and MTR in March of 2017.",
 			"correct_answer": "True",
 			"incorrect_answers": [
 				"False"
@@ -121,7 +121,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+			"question": "In \"Battle Cats\", what is Moneko / MISS Moneko's critical percentage rate?",
 			"correct_answer": "15%",
 			"incorrect_answers": [
 				"20%",
@@ -157,7 +157,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+			"question": "Which of the following is an existing family in \"The Sims\"?",
 			"correct_answer": "The Goth Family",
 			"incorrect_answers": [
 				"The Family",
@@ -169,19 +169,19 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "The word &quot;abulia&quot; means which of the following?",
+			"question": "The word \"abulia\" means which of the following?",
 			"correct_answer": "The inability to make decisions",
 			"incorrect_answers": [
 				"The inability to stand up",
 				"The inability to concentrate on anything",
-				"A feverish desire to rip one&#039;s clothes off"
+				"A feverish desire to rip one's clothes off"
 			]
 		},
 		{
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "What is the romanized Korean word for &quot;heart&quot;?",
+			"question": "What is the romanized Korean word for \"heart\"?",
 			"correct_answer": "Simjang",
 			"incorrect_answers": [
 				"Aejeong",
@@ -193,23 +193,23 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
-			"correct_answer": "The Shatter&#039;s",
+			"question": "In the MMO RPG \"Realm of the Mad God\", what dungeon is widely considered to be the most difficult?",
+			"correct_answer": "The Shatter's",
 			"incorrect_answers": [
 				"Snake Pit",
-				"The Tomb of the Acient&#039;s",
-				"The Puppet Master&#039;s Theater"
+				"The Tomb of the Acient's",
+				"The Puppet Master's Theater"
 			]
 		},
 		{
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
-			"correct_answer": "St. Peter&#039;s Basilica",
+			"question": "Which church's interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+			"correct_answer": "St. Peter's Basilica",
 			"incorrect_answers": [
 				"Catania Cathedral",
-				"St. Mark&rsquo;s Basilica",
+				"St. Mark's Basilica",
 				"The Duomo of Florence"
 			]
 		},
@@ -217,7 +217,7 @@ const hardQuestions = {
 			"type": "boolean",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "Spoon theory is a theory, utilizing &quot;Spoons&quot; as a metaphor for energy they can use in a day.",
+			"question": "Spoon theory is a theory, utilizing \"Spoons\" as a metaphor for energy they can use in a day.",
 			"correct_answer": "True",
 			"incorrect_answers": [
 				"False"
@@ -263,7 +263,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+			"question": "Located in Chile, El Teniente is the world's largest underground mine for what metal?",
 			"correct_answer": "Copper",
 			"incorrect_answers": [
 				"Iron",
@@ -314,7 +314,7 @@ const hardQuestions = {
 			"question": "Which one of these Swedish companies was founded in 1943?",
 			"correct_answer": "IKEA",
 			"incorrect_answers": [
-				"H &amp; M",
+				"H & M",
 				"Lindex",
 				"Clas Ohlson"
 			]
@@ -335,7 +335,7 @@ const hardQuestions = {
 			"type": "boolean",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "NCIS stands for &quot;Navy Corps Investigative Service&quot;",
+			"question": "NCIS stands for \"Navy Corps Investigative Service\"",
 			"correct_answer": "False",
 			"incorrect_answers": [
 				"True"
@@ -345,7 +345,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+			"question": "In flight systems, what does the initialism \"TCAS\" stand for?",
 			"correct_answer": "Traffic Collision Avoidance System",
 			"incorrect_answers": [
 				"Traffic Communication Alert System",
@@ -405,7 +405,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "The Swedish word &quot;Grunka&quot; means what in English?",
+			"question": "The Swedish word \"Grunka\" means what in English?",
 			"correct_answer": "Thing",
 			"incorrect_answers": [
 				"People",
@@ -417,7 +417,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+			"question": "Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?",
 			"correct_answer": "Ed Sheeran - I See Fire",
 			"incorrect_answers": [
 				"Marvin Gaye - Sexual Healing",
@@ -429,7 +429,7 @@ const hardQuestions = {
 			"type": "boolean",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.",
+			"question": "This is the correct spelling of \"Supercalifragilisticexpialidocious\".",
 			"correct_answer": "True",
 			"incorrect_answers": [
 				"False"
@@ -439,7 +439,7 @@ const hardQuestions = {
 			"type": "boolean",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "In Scandinavian languages, the letter &Aring; means river.",
+			"question": "In Scandinavian languages, the letter Å means river.",
 			"correct_answer": "True",
 			"incorrect_answers": [
 				"False"
@@ -449,7 +449,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "What is the romanized Arabic word for &quot;moon&quot;?",
+			"question": "What is the romanized Arabic word for \"moon\"?",
 			"correct_answer": "Qamar",
 			"incorrect_answers": [
 				"Najma",
@@ -485,7 +485,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+			"question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song \"Shelter\"?",
 			"correct_answer": "Madeon",
 			"incorrect_answers": [
 				"Mat Zo",
@@ -497,7 +497,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+			"question": "In \"Resident Evil 3\", how many inventory slots does Jill have at the start of the game?",
 			"correct_answer": "10",
 			"incorrect_answers": [
 				"6",
@@ -521,7 +521,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "When was &quot;YouTube&quot; founded?",
+			"question": "When was \"YouTube\" founded?",
 			"correct_answer": "February 14, 2005",
 			"incorrect_answers": [
 				"May 22, 2004",
@@ -545,7 +545,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+			"question": "Virtual reality company Oculus VR lost which of it's co-founders in a freak car accident in 2013?",
 			"correct_answer": "Andrew Scott Reisse",
 			"incorrect_answers": [
 				"Nate Mitchell",
@@ -569,7 +569,7 @@ const hardQuestions = {
 			"type": "multiple",
 			"difficulty": "hard",
 			"category": "General Knowledge",
-			"question": "If someone said &quot;you are olid&quot;, what would they mean?",
+			"question": "If someone said \"you are olid\", what would they mean?",
 			"correct_answer": "You smell extremely unpleasant.",
 			"incorrect_answers": [
 				"You are out of shape/weak.",

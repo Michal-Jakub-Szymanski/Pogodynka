@@ -41,7 +41,7 @@ const easyQuestions = {
 			"type": "boolean",
 			"difficulty": "easy",
 			"category": "General Knowledge",
-			"question": "Vietnam&#039;s national flag is a red star in front of a yellow background.",
+			"question": "Vietnam's national flag is a red star in front of a yellow background.",
 			"correct_answer": "False",
 			"incorrect_answers": [
 				"True"
@@ -181,7 +181,7 @@ const easyQuestions = {
 			"type": "multiple",
 			"difficulty": "easy",
 			"category": "General Knowledge",
-			"question": "Where is the train station \"Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch\"?",
+			"question": "Where is the train station \"Llanfair-pwllgwyngyll-gogery-chwyrn-drobwll-llan-tysilio-gogo-goch\"?",
 			"correct_answer": "Wales",
 			"incorrect_answers": [
 				"Moldova",
@@ -363,7 +363,7 @@ const easyQuestions = {
 			"type": "multiple",
 			"difficulty": "easy",
 			"category": "General Knowledge",
-			"question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+			"question": "What is the profession of Elon Musk's mom, Maye Musk?",
 			"correct_answer": "Model",
 			"incorrect_answers": [
 				"Professor",
@@ -414,14 +414,14 @@ const easyQuestions = {
 			"incorrect_answers": [
 				"Transformers",
 				"Care Bears",
-				"Rubik&rsquo;s Cube"
+				"Rubik's Cube"
 			]
 		},
 		{
 			"type": "multiple",
 			"difficulty": "easy",
 			"category": "General Knowledge",
-			"question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+			"question": "What is on display in the Madame Tussaud's museum in London?",
 			"correct_answer": "Wax sculptures",
 			"incorrect_answers": [
 				"Designer clothing",
@@ -561,7 +561,7 @@ const easyQuestions = {
 			"type": "multiple",
 			"difficulty": "easy",
 			"category": "General Knowledge",
-			"question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+			"question": "What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?",
 			"correct_answer": "Gorilla",
 			"incorrect_answers": [
 				"Tiger",

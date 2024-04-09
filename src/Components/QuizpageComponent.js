@@ -3,6 +3,12 @@ import { Link } from "react-router-dom";
 import GKeasyQuestions from "./QuestionFiles/GeneralKnowledge/easy";
 import GKmediumQuestions from "./QuestionFiles/GeneralKnowledge/medium";
 import GKhardQuestions from "./QuestionFiles/GeneralKnowledge/hard";
+import GEOeasyQuestions from "./QuestionFiles/Geography/easy";
+import GEOmediumQuestions from "./QuestionFiles/Geography/medium";
+import GEOhardQuestions from "./QuestionFiles/Geography/hard";
+import MeasyQuestions from "./QuestionFiles/Music/easy";
+import MmediumQuestions from "./QuestionFiles/Music/medium";
+import MhardQuestions from "./QuestionFiles/Music/hard";
 
 const QuizpageComponent = () => {
     const urlParams = new URLSearchParams(window.location.search);
@@ -28,35 +34,35 @@ const QuizpageComponent = () => {
                     break;
             }
             break;
-        case "10":
+        case "22":
             switch (difficulty) {
                 case "easy":
-                    questions = GKeasyQuestions.results;
+                    questions = GEOeasyQuestions.results;
                     break;
                 case "medium":
-                    questions = GKmediumQuestions.results;
+                    questions = GEOmediumQuestions.results;
                     break;
                 case "hard":
-                    questions = GKhardQuestions.results;
+                    questions = GEOhardQuestions.results;
                     break;
                 default:
-                    questions = GKeasyQuestions.results;
+                    questions = GEOeasyQuestions.results;
                     break;
             }
             break;
         case "12":
             switch (difficulty) {
                 case "easy":
-                    questions = GKeasyQuestions.results;
+                    questions = MeasyQuestions.results;
                     break;
                 case "medium":
-                    questions = GKmediumQuestions.results;
+                    questions = MmediumQuestions.results;
                     break;
                 case "hard":
-                    questions = GKhardQuestions.results;
+                    questions = MhardQuestions.results;
                     break;
                 default:
-                    questions = GKeasyQuestions.results;
+                    questions = MeasyQuestions.results;
                     break;
             }
             break;
@@ -119,8 +125,9 @@ const QuizpageComponent = () => {
     const endGame = () =>{
         setCurrentElement(
             <div className="container">
-                <p>Thanks for playing your score is: {points}</p>
-                <Link to="/">Homepage</Link>
+                <h3>Thanks for playing your score is: {points}</h3>
+                <br /><br />
+                <Link to="/">Return</Link>
             </div>
         )
     }
@@ -137,7 +144,7 @@ const QuizpageComponent = () => {
             <div className="container">
                 <h3>{questionNumber}. - {question}</h3>
                 <div>{buttons}</div>
-                Current points: {points}
+                <h5>Current points: {points}</h5>
             </div>
         );
     };

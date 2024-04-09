@@ -41,12 +41,12 @@ const mediumQuestions = {
 			"type": "multiple",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "What is the romanized Russian word for &quot;winter&quot;?",
+			"question": "What is the romanized Russian word for \"winter\"?",
 			"correct_answer": "Zima",
 			"incorrect_answers": [
 				"Leto",
 				"Vesna",
-				"Osen&#039;"
+				"Osen’"
 			]
 		},
 		{
@@ -65,7 +65,7 @@ const mediumQuestions = {
 			"type": "multiple",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "What is a &quot;dakimakura&quot;?",
+			"question": "What is a \"dakimakura\"?",
 			"correct_answer": "A body pillow",
 			"incorrect_answers": [
 				"A Chinese meal, essentially composed of fish",
@@ -93,7 +93,7 @@ const mediumQuestions = {
 			"correct_answer": "First Lord of the Treasury",
 			"incorrect_answers": [
 				"Duke of Cambridge",
-				"Her Majesty&#039;s Loyal Opposition",
+				"Her Majesty’s Loyal Opposition",
 				"Manager of the Crown Estate"
 			]
 		},
@@ -135,12 +135,12 @@ const mediumQuestions = {
 			"type": "multiple",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "What was Mountain Dew&#039;s original slogan?",
-			"correct_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+			"question": "What was Mountain Dew’s original slogan?",
+			"correct_answer": "Yahoo! Mountain Dew... It’ll tickle your innards!",
 			"incorrect_answers": [
 				"Give Me A Dew",
 				"Do The Dew",
-				"Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+				"Get’ that barefoot feelin’ drinkin’ Mountain Dew"
 			]
 		},
 		{
@@ -181,12 +181,12 @@ const mediumQuestions = {
 			"type": "multiple",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "What is the German word for &quot;spoon&quot;?",
-			"correct_answer": "L&ouml;ffel",
+			"question": "What is the German word for \"spoon\"?",
+			"correct_answer": "Löffel",
 			"incorrect_answers": [
 				"Gabel",
 				"Messer",
-				"Essst&auml;bchen"
+				"Essstäbchen"
 			]
 		},
 		{
@@ -203,7 +203,7 @@ const mediumQuestions = {
 			"type": "multiple",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+			"question": "This field is sometimes known as “The Dismal Science.”",
 			"correct_answer": "Economics",
 			"incorrect_answers": [
 				"Philosophy",
@@ -228,10 +228,10 @@ const mediumQuestions = {
 			"difficulty": "medium",
 			"category": "General Knowledge",
 			"question": "What is real haggis made of?",
-			"correct_answer": "Sheep&#039;s Heart, Liver and Lungs",
+			"correct_answer": "Sheep’s Heart, Liver and Lungs",
 			"incorrect_answers": [
-				"Sheep&#039;s Heart, Kidneys and Lungs",
-				"Sheep&#039;s Liver, Kidneys and Eyes",
+				"Sheep’s Heart, Kidneys and Lungs",
+				"Sheep’s Liver, Kidneys and Eyes",
 				"Whole Sheep"
 			]
 		},
@@ -285,7 +285,7 @@ const mediumQuestions = {
 			"type": "boolean",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "&quot;Santa Claus&quot; is a variety of melon.",
+			"question": "\"Santa Claus\" is a variety of melon.",
 			"correct_answer": "True",
 			"incorrect_answers": [
 				"False"
@@ -329,7 +329,7 @@ const mediumQuestions = {
 			"type": "multiple",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "The website &quot;Shut Up &amp; Sit Down&quot; reviews which form of media?",
+			"question": "The website \"Shut Up & Sit Down\" reviews which form of media?",
 			"correct_answer": "Board Games",
 			"incorrect_answers": [
 				"Television Shows",
@@ -341,7 +341,7 @@ const mediumQuestions = {
 			"type": "boolean",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "The word &quot;news&quot; originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
+			"question": "The word \"news\" originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
 			"correct_answer": "False",
 			"incorrect_answers": [
 				"True"
@@ -363,7 +363,7 @@ const mediumQuestions = {
 			"type": "multiple",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+			"question": "What name represents the letter \"M\" in the NATO phonetic alphabet?",
 			"correct_answer": "Mike",
 			"incorrect_answers": [
 				"Matthew",
@@ -399,7 +399,7 @@ const mediumQuestions = {
 			"type": "boolean",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "&quot;Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.&quot; is a grammatically correct sentence.",
+			"question": "\"Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.\" is a grammatically correct sentence.",
 			"correct_answer": "True",
 			"incorrect_answers": [
 				"False"
@@ -409,7 +409,7 @@ const mediumQuestions = {
 			"type": "boolean",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "The bikini is named after the &quot;Bikini Atoll&quot;, an island where the United States conducted tests on atomic bombs.",
+			"question": "The bikini is named after the \"Bikini Atoll\", an island where the United States conducted tests on atomic bombs.",
 			"correct_answer": "True",
 			"incorrect_answers": [
 				"False"
@@ -465,7 +465,7 @@ const mediumQuestions = {
 			"type": "multiple",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+			"question": "What is the name of the popular animatronic singing fish prop, singing such hits such as \"Don’t Worry, Be Happy\"?",
 			"correct_answer": "Big Mouth Billy Bass",
 			"incorrect_answers": [
 				"Big Billy Bass",
@@ -516,14 +516,14 @@ const mediumQuestions = {
 			"incorrect_answers": [
 				"Royal Oak",
 				"White Hart",
-				"King&#039;s Head"
+				"King’s Head"
 			]
 		},
 		{
 			"type": "boolean",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "The French word for &quot;glass&quot; is &quot;glace&quot;.",
+			"question": "The French word for \"glass\" is \"glace\".",
 			"correct_answer": "False",
 			"incorrect_answers": [
 				"True"
@@ -545,7 +545,7 @@ const mediumQuestions = {
 			"type": "multiple",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "Who is the founder of &quot;The Lego Group&quot;?",
+			"question": "Who is the founder of \"The Lego Group\"?",
 			"correct_answer": "Ole Kirk Christiansen",
 			"incorrect_answers": [
 				" Jens Niels Christiansen",
@@ -557,7 +557,7 @@ const mediumQuestions = {
 			"type": "boolean",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "Fast food restaurant chains Carl&#039;s Jr. and Hardee&#039;s are owned by the same company.",
+			"question": "Fast food restaurant chains Carl’s Jr. and Hardee’s are owned by the same company.",
 			"correct_answer": "True",
 			"incorrect_answers": [
 				"False"
@@ -567,7 +567,7 @@ const mediumQuestions = {
 			"type": "multiple",
 			"difficulty": "medium",
 			"category": "General Knowledge",
-			"question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+			"question": "Which of the General Mills Corporation’s monster cereals was the last to be released in the 1970’s?",
 			"correct_answer": "Fruit Brute",
 			"incorrect_answers": [
 				"Count Chocula",

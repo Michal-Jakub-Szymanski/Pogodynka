@@ -26,7 +26,7 @@ const HomepageComponent = () => {
             return (
                 <div className="quiz">
                     <div className="quiz-question">
-                        <label htmlFor="question-total">Wybierz liczbe pytań:</label>
+                        <label htmlFor="question-total">Select the number of questions:</label>
                         <select id="question-total" onChange={(e) => setQuestionAmount(e.target.value)}>
                             <option value="10">10</option>
                             <option value="20">20</option>
@@ -36,11 +36,11 @@ const HomepageComponent = () => {
                         </select>
                     </div>
                     <div className="quiz-question">
-                        <label htmlFor="question-difficulty">Wybierz poziom trudności:</label>
+                        <label htmlFor="question-difficulty">Select difficulty level:</label>
                         <select id="question-difficulty" onChange={(e) => setDifficultyLevel(e.target.value)}>
-                            <option value="easy">Łatwy</option>
-                            <option value="medium">Średni</option>
-                            <option value="hard">Trudny</option>
+                            <option value="easy">Easy</option>
+                            <option value="medium">Medium</option>
+                            <option value="hard">Hard</option>
                         </select>
                     </div>
                     <button className="quiz-start" onClick={handleStartQuiz}>Start Quiz</button>
@@ -54,10 +54,10 @@ const HomepageComponent = () => {
     return (
         <div>
             <div className="container">
-                <h2>Witamy na stronie z quizami!</h2>
+                <h2>Welcome to the quiz site!</h2>
             </div>
             <div className="container">
-                <h1>Wybierz kategorie aby zaczac quiz</h1>
+                <h1>Select a category to start the quiz</h1>
                 <ul className="category">
                     <li onClick={() => handleCategorySelect("9")}>General Knowledge</li>
                     <li onClick={() => handleCategorySelect("22")}>Geography</li>

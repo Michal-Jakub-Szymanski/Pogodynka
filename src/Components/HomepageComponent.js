@@ -4,7 +4,7 @@ import "../Style/homepage.css";
 
 const HomepageComponent = () => {
     const [selectedCategory, setSelectedCategory] = useState(null);
-    const [questionAmount, setQuestionAmount] = useState("22");
+    const [questionAmount, setQuestionAmount] = useState("10");
     const [difficultyLevel, setDifficultyLevel] = useState("easy");
     const navigate = useNavigate();
 
